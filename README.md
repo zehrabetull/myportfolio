@@ -5,6 +5,9 @@ Daha sonra bu alandaki ilgim sona erdi ve tam olarak benim istediğim alan olmad
 daha farklı alanlara kaydırdım.
 
 Basit bir html/css'ten oluşan bu portfolyo sitesi oluşturma projemi canlıya alamadım. Bu sebeple görüntüsünü eklemek istedim.
+-
 
-https://github.com/user-attachments/assets/f03cdcea-2a45-4015-b50e-c8de7bba0bb2
+
+
+https://github.com/user-attachments/assets/968174f5-59ea-4bbe-9c48-d19690ad09f9
 
